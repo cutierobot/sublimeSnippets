@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+dup2(${1:oldFd}, ${2:newFd});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>dup2</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c</scope>
+	<description>dup2(int oldFd, int newFd)</description>
+</snippet>
