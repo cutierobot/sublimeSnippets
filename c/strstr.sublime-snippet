@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+strstr(${1:char *haystack}, ${2:char *needle});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>strstr</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c</scope>
+	<description>search haystack for needle</description>
+</snippet>
