@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-strol(${1:str}, ${2:ptr}, ${3:base});
+strtol(${1:str}, ${2:ptr}, ${3:base});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>strol</tabTrigger>
+	<tabTrigger>strtol</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.c</scope>
 	<description>(char str[], char *ptr,int base)</description>
