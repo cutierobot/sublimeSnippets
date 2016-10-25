@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+realloc(${1:char *ptr}, ${2:int sizes});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>realloc</tabTrigger>
+	 <!--Optional: Set a scope to limit where the snippet will trigger -->
+	 <scope>source.c</scope>
+</snippet>
