@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+strcmp(${1:char *s1}, ${2:char *s2});
+]]></content>
+	 <tabTrigger>strcmp</tabTrigger> 
+	 <scope>source.c</scope> 
+</snippet>
