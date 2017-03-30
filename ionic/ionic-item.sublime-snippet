@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+	<ion-item>
+		<ion-label>${1}</ion-label>
+		<ion-input>${2}</ion-input>
+	</ion-item>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>item</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<description>IONIC</description>
+</snippet>
