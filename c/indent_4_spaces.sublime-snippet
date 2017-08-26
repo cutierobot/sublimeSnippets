@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+    
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>in4</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c</scope>
+	<description>indent 4 spaces</description>
+</snippet>

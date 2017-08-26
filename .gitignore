@@ -1,0 +1,4 @@
+jasmine js/jasmine_toBe.sublime-snippet
+jasmine js/jasmine_expect.sublime-snippet
+#ignore that bloody jasmine folder, regret it in the first place
+jasmine/
