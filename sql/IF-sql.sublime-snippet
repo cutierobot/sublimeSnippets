@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+IF ${1:condition} THEN
+	${2:statment to execute when TRUE}
+END IF;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>IF</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.sql</scope>
+	<description>IF statement</description>
+</snippet>

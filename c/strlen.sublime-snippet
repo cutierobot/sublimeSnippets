@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-strlen(${1:char *str});
+${1:(int)}strlen(${2:char *str});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>strlen</tabTrigger>
