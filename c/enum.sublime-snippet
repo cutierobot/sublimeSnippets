@@ -1,10 +1,12 @@
 <snippet>
 	<content><![CDATA[
-//TODO: @add to ${TM_FILENAME/(.+)\..+/$1/}.h file (98)
+enum ${1:name_of_enum} {
+    ${2:} = ${3:},
+};
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<!-- <tabTrigger>hello</tabTrigger> -->
+	<tabTrigger>enum</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
-	<description>TODO: add to header</description>
+	<scope>source.c</scope>
+	<description>enum</description>
 </snippet>
