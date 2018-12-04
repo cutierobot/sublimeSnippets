@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+"""
+${1:[Function description]}
+${2:@param ${3:parameter} ${4:description}}
+${5:@return [${6:retType}]	${7:description}}
+"""
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>
